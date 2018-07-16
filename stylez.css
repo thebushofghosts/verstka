@@ -1,13 +1,32 @@
-header{
+header, nav{
     background-color: #FD739C;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2{
     font-family: Arial, Helvetica, sans-serif;
 }
+div{
+    line-height: 60px;
+}
 
-p{
+header{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+h1{
+    margin-bottom: 20px;
+    line-height: 50px;
+}
+
+
+body, nav{
     font-size: 22px;
     line-height: 34px;
+}
+
+main{
+    margin-top: 100px;
 }
